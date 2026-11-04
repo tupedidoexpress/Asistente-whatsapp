@@ -1,0 +1,6 @@
+{
+  "name": "AutoMerge WhatsApp - Combinación de Correspondencia Masiva",
+  "description": "Crea plantillas con variables personalizadas y genera mensajes masivos para WhatsApp y correo reemplazando datos desde Excel y CSV automáticamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
